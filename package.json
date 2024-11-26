@@ -1,0 +1,19 @@
+{
+  "name": "curso2024",
+  "version": "1.0.0",
+  "description": "Carpeta inicial para guardar los ejercicios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosCanoAvila/ProjectsCypress.git"
+  },
+  "author": "marcoscano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosCanoAvila/ProjectsCypress/issues"
+  },
+  "homepage": "https://github.com/MarcosCanoAvila/ProjectsCypress#readme"
+}
