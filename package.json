@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MarcosCanoAvila/ProjectsCypress/issues"
   },
-  "homepage": "https://github.com/MarcosCanoAvila/ProjectsCypress#readme"
+  "homepage": "https://github.com/MarcosCanoAvila/ProjectsCypress#readme",
+  "devDependencies": {
+    "cypress": "^13.16.0"
+  }
 }
